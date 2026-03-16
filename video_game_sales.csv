@@ -1838,15 +1838,15 @@ Rank,Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,G
 1838,Sunset Overdrive,XOne,2014,Shooter,Microsoft Game Studios,0.62,0.4,0,0.08,1.11
 1839,Rock Band,PS2,N/A,Misc,Electronic Arts,0.71,0.06,0,0.35,1.11
 1840,Tom Clancy's Splinter Cell: Chaos Theory,XB,2005,Action,Ubisoft,0.68,0.38,0,0.05,1.11
-1841,Donkey Kong Jr.,NES,1983,Platform,Nintendo,0.33,0.07,0.7,0.01,1.11
+1841,Donkey Kong Jr.,NES,1983,Platform,Nintendo,0.33,0.07,0.7,0.01,
 1842,Arc the Lad,PS,1995,Role-Playing,Sony Computer Entertainment,0,0,1.1,0.01,1.11
-1843,NBA Jam Tournament Edition,GEN,1994,Sports,Acclaim Entertainment,0.95,0.14,0,0.03,1.11
-1844,Need for Speed: ProStreet,Wii,2007,Racing,Electronic Arts,0.54,0.46,0,0.12,1.11
-1845,Pikmin 3,WiiU,2013,Strategy,Nintendo,0.45,0.31,0.29,0.06,1.11
-1846,Legend of Mana,PS,1999,Role-Playing,SquareSoft,0.18,0.13,0.73,0.07,1.11
-1847,Lumines: Puzzle Fusion,PSP,2004,Puzzle,Ubisoft,0.52,0.35,0,0.23,1.11
+1843,NBA Jam Tournament Edition,GEN,1994,Sports,Acclaim Entertainment,0.95,0.14,0,0.03,
+1844,Need for Speed: ProStreet,Wii,2007,Racing,Electronic Arts,0.54,0.46,0,0.12,
+1845,Pikmin 3,WiiU,2013,Strategy,Nintendo,0.45,0.31,0.29,0.06,
+1846,Legend of Mana,PS,1999,Role-Playing,SquareSoft,0.18,0.13,0.73,0.07,
+1847,Lumines: Puzzle Fusion,PSP,2004,Puzzle,Ubisoft,0.52,0.35,0,0.23,
 1848,Toy Story 3: The Video Game,PS3,2010,Action,Disney Interactive Studios,0.51,0.42,0,0.17,1.11
-1849,Guitar Hero 5,PS3,2009,Misc,Activision,0.53,0.4,0,0.17,1.1
+1849,Guitar Hero 5,PS3,2009,Misc,Activision,0.53,0.4,0,0.17,
 1850,Megamania,2600,1981,Shooter,Activision,1.03,0.06,0,0.01,1.1
 1851,Medal of Honor: Airborne,X360,2007,Shooter,Electronic Arts,0.45,0.53,0.01,0.12,1.1
 1852,The Legend of Zelda: Tri Force Heroes,3DS,2015,Action,Nintendo,0.52,0.33,0.17,0.08,1.1
@@ -1895,15 +1895,15 @@ Rank,Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,G
 1895,NASCAR Thunder 2004,PS2,2003,Racing,Electronic Arts,0.53,0.41,0,0.14,1.08
 1896,Prince of Persia,PS3,2008,Action,Ubisoft,0.47,0.41,0.03,0.18,1.08
 1897,SpongeBob SquarePants: Revenge of the Flying Dutchman,PS2,2002,Platform,THQ,0.53,0.41,0,0.14,1.08
-1898,Grand Theft Auto V,PC,2015,Action,Take-Two Interactive,0.36,0.64,0,0.08,1.08
-1899,The Biggest Loser,Wii,2009,Sports,THQ,0.87,0.12,0,0.09,1.08
+1898,Grand Theft Auto V,PC,2015,Action,Take-Two Interactive,0.36,0.64,,0.08,1.08
+1899,The Biggest Loser,Wii,2009,Sports,THQ,0.87,0.12,,0.09,1.08
 1900,Fisherman's Bass Club,PS2,2002,Sports,Agetec,0.53,0.41,0,0.14,1.08
-1901,MySims Agents,DS,2009,Adventure,Electronic Arts,0.55,0.43,0,0.11,1.08
-1902,Resident Evil: The Darkside Chronicles,Wii,2009,Action,Capcom,0.48,0.32,0.2,0.09,1.08
-1903,NCAA Football 13,X360,2012,Action,Electronic Arts,1.02,0,0,0.06,1.08
-1904,Grand Theft Auto: Chinatown Wars,PSP,2009,Action,Take-Two Interactive,0.28,0.5,0.03,0.28,1.08
-1905,FIFA Soccer 11,Wii,2010,Sports,Electronic Arts,0.26,0.69,0,0.12,1.08
-1906,The Orange Box,PS3,2007,Shooter,Electronic Arts,,0.59,0,0.22,1.08
+1901,MySims Agents,DS,2009,Adventure,Electronic Arts,0.55,0.43,,0.11,1.08
+1902,Resident Evil: The Darkside Chronicles,Wii,2009,Action,Capcom,0.48,0.32,,0.09,1.08
+1903,NCAA Football 13,X360,2012,Action,Electronic Arts,1.02,0,,0.06,1.08
+1904,Grand Theft Auto: Chinatown Wars,PSP,2009,Action,Take-Two Interactive,0.28,0.5,,0.28,1.08
+1905,FIFA Soccer 11,Wii,2010,Sports,Electronic Arts,0.26,0.69,,0.12,1.08
+1906,The Orange Box,PS3,2007,Shooter,Electronic Arts,,0.59,,0.22,1.08
 1907,Joust,2600,1982,Platform,Atari,1.01,0.06,0,0.01,1.08
 1908,Tomb Raider: Underworld,X360,2008,Action,Eidos Interactive,0.53,0.43,,0.11,1.08
 1909,Tom Clancy's Ghost Recon 2,PS2,2004,Shooter,Ubisoft,0.64,0.34,0,0.1,1.08
@@ -3197,10 +3197,10 @@ Rank,Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,G
 3197,NASCAR 06: Total Team Control,PS2,2005,Racing,Electronic Arts,0.53,0.02,0,0.09,0.63
 3198,Tony Hawk's Project 8,PS3,2006,Sports,Activision,0.3,0.23,0.01,0.1,0.63
 3199,Dogz,GBA,2004,Simulation,Ubisoft,0.45,0.17,0,0.01,0.63
-3200,Disney Universe,PS3,2011,Action,Disney Interactive Studios,0.3,0.23,0,0.09,0.63
-3201,Guitar Hero: Metallica,PS3,2009,Misc,Activision,0.28,0.24,0,0.1,0.63
-3202,Iron Man,PSP,2008,Action,Sega,0.46,0.09,0,0.09,0.63
-3203,Taiko no Tatsujin: Chibi Dragon to Fushigi na Orb,3DS,2012,Misc,Namco Bandai Games,0,0,0.63,0,0.63
+3200,Disney Universe,PS3,2011,Action,,0.3,0.23,0,0.09,0.63
+3201,Guitar Hero: Metallica,PS3,2009,Misc,,0.28,0.24,0,0.1,0.63
+3202,Iron Man,PSP,2008,Action,,0.46,0.09,0,0.09,0.63
+3203,Taiko no Tatsujin: Chibi Dragon to Fushigi na Orb,3DS,2012,Misc,,0,0,0.63,0,0.63
 3204,Harry Potter and the Half-Blood Prince,DS,2009,Action,Electronic Arts,0.21,0.35,0,0.07,0.63
 3205,A Bug's Life,N64,1998,Platform,Activision,0.49,0.13,0,0.01,0.63
 3206,Super Castlevania IV,SNES,1991,Platform,Konami Digital Entertainment,0.32,0.05,0.25,0.01,0.63
@@ -3290,20 +3290,20 @@ Rank,Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,G
 3290,NFL Fever 2003,XB,2002,Sports,Microsoft Game Studios,0.46,0.13,0,0.02,0.61
 3291,Samurai Warriors 2,PS2,2006,Action,Tecmo Koei,0.02,0.02,0.57,0.01,0.61
 3292,Dynasty Warriors 8,PS3,2013,Action,Tecmo Koei,0.12,0.11,0.34,0.05,0.61
-3293,Disney Sing It: Family Hits,Wii,2010,Misc,Disney Interactive Studios,0.39,0.18,0,0.05,0.61
-3294,2 Games in 1: Sonic Battle & ChuChu Rocket!,GBA,2005,Misc,THQ,0.44,0.16,0,0.01,0.61
+3293,Disney Sing It: Family Hits,Wii,2010,Misc,,0.39,0.18,0,0.05,0.61
+3294,2 Games in 1: Sonic Battle & ChuChu Rocket!,GBA,2005,Misc,,0.44,0.16,0,0.01,0.61
 3295,Robotech: Battlecry,PS2,2002,Shooter,TDK Mediactive,0.3,0.23,0,0.08,0.61
 3296,Dora the Explorer: Super Spies,GBA,2004,Platform,Gotham Games,0.44,0.16,0,0.01,0.61
-3297,New Carnival Games,Wii,2010,Misc,Take-Two Interactive,0.35,0.21,0,0.05,0.61
-3298,Tony Hawk: RIDE,X360,2009,Sports,Activision,0.46,0.1,0,0.05,0.61
-3299,Just Dance 2014,WiiU,2013,Misc,Ubisoft,0.33,0.23,0,0.05,0.61
-3300,Cooking Mama 4: Kitchen Magic!,3DS,2011,Simulation,505 Games,0.5,0.07,0,0.04,0.61
-3301,Texas Hold 'Em Poker,GBA,2004,Misc,Majesco Entertainment,0.44,0.16,0,0.01,0.61
-3302,Time Crisis 3,PS2,2003,Shooter,Namco Bandai Games,0.3,0.23,0,0.08,0.61
-3303,Cabela's Monster Buck Hunter,Wii,2010,Sports,Activision,0.58,0,0,0.03,0.61
-3304,Ganbaru Watashi no Kakei Diary,DS,2007,Misc,Nintendo,0,0,0.61,0,0.61
-3305,pro evolution soccer 2011,X360,2010,Sports,Konami Digital Entertainment,0.09,0.44,0,0.07,0.61
-3306,New Play Control! Donkey Kong Jungle Beat,Wii,2008,Platform,Nintendo,0.24,0.17,0.14,0.05,0.61
+3297,New Carnival Games,Wii,2010,Misc,Take-Two Interactive,0.35,,0,0.05,0.61
+3298,Tony Hawk: RIDE,X360,2009,Sports,,0.46,,,0.05,0.61
+3299,Just Dance 2014,WiiU,2013,Misc,,0.33,0.23,0,0.05,0.61
+3300,Cooking Mama 4: Kitchen Magic!,3DS,2011,Simulation,505 Games,,0.07,0,0.04,0.61
+3301,Texas Hold 'Em Poker,GBA,2004,Misc,Majesco Entertainment,0.44,,0,0.01,0.61
+3302,Time Crisis 3,PS2,2003,Shooter,Namco Bandai Games,0.3,,0,0.08,0.61
+3303,Cabela's Monster Buck Hunter,Wii,2010,Sports,Activision,0.58,,0,0.03,0.61
+3304,Ganbaru Watashi no Kakei Diary,DS,2007,Misc,Nintendo,,0,0.61,0,0.61
+3305,pro evolution soccer 2011,X360,2010,Sports,Konami Digital Entertainment,0.09,,0,0.07,0.61
+3306,New Play Control! Donkey Kong Jungle Beat,Wii,2008,Platform,Nintendo,,,0.14,0.05,0.61
 3307,Small Soldiers,PS,1998,Platform,Electronic Arts,0.34,0.23,0,0.04,0.61
 3308,Yakuza: Dead Souls,PS3,2011,Shooter,Sega,0.09,0.07,0.42,0.03,0.61
 3309,Littlest Pet Shop: Garden,DS,2008,Simulation,Electronic Arts,0.31,0.24,0,0.06,0.61
@@ -12998,25 +12998,25 @@ Rank,Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,G
 12998,Rally Fusion: Race of Champions,XB,2002,Racing,Activision,0.04,0.01,0,0,0.05
 12999,Piglet's Big Game,GBA,2003,Platform,THQ,0.04,0.01,0,0,0.05
 13000,Lucha Libre AAA: Heroes del Ring,X360,2010,Fighting,Konami Digital Entertainment,0.05,0,0,0,0.05
-13001,Pony Friends,DS,2007,Simulation,Eidos Interactive,0,0.05,0,0.01,0.05
-13002,Natural Doctrine,PS3,2014,Role-Playing,Nippon Ichi Software,0.03,0.01,0.01,0.01,0.05
-13003,Pinball Hall of Fame: The Gottlieb Collection,GC,2005,Misc,Crave Entertainment,0.04,0.01,0,0,0.05
+13001,Pony Friends,DS,2007,Simulation,Eidos Interactive,0,0.05,0,0.01,
+13002,Natural Doctrine,PS3,2014,Role-Playing,Nippon Ichi Software,0.03,0.01,0.01,0.01,
+13003,Pinball Hall of Fame: The Gottlieb Collection,GC,2005,Misc,Crave Entertainment,0.04,0.01,0,0,
 13004,Ferrari F355 Challenge,PS2,2002,Racing,Sony Computer Entertainment,0.03,0.02,0,0.01,0.05
-13005,MorphX,X360,2010,Shooter,505 Games,0.05,0,0,0,0.05
-13006,Stranger of Sword City,PSV,2015,Role-Playing,Nippon Ichi Software,0.02,0.02,0,0.01,0.05
-13007,Air Traffic Chaos,DS,2007,Simulation,Ertain,0.05,0,0,0,0.05
+13005,MorphX,X360,2010,Shooter,505 Games,0.05,0,0,0,
+13006,Stranger of Sword City,PSV,2015,Role-Playing,Nippon Ichi Software,0.02,0.02,0,0.01,
+13007,Air Traffic Chaos,DS,2007,Simulation,Ertain,0.05,0,,0,0.05
 13008,Battleship / Connect Four / Sorry! / Trouble,DS,2006,Puzzle,"Destination Software, Inc",0.05,0,0,0,0.05
-13009,Prism: Light the Way,DS,2007,Puzzle,Eidos Interactive,0.05,0,0,0,0.05
-13010,Tiny Toon Adventures: Toonenstein - Dare to Scare,PS,1998,Action,Swing! Entertainment,0.03,0.02,0,0,0.05
-13011,TV Anime: Fairy Tale Gekitou! Madoushi Kessen,DS,2010,Fighting,Hudson Soft,0,0,0.05,0,0.05
-13012,Shifters,PS2,2002,Adventure,3DO,0.03,0.02,0,0.01,0.05
+13009,Prism: Light the Way,DS,2007,Puzzle,Eidos Interactive,0.05,0,,0,0.05
+13010,Tiny Toon Adventures: Toonenstein - Dare to Scare,PS,1998,Action,Swing! Entertainment,0.03,0.02,,0,0.05
+13011,TV Anime: Fairy Tale Gekitou! Madoushi Kessen,DS,2010,Fighting,Hudson Soft,0,0,,0,0.05
+13012,Shifters,PS2,2002,Adventure,3DO,0.03,0.02,,0.01,0.05
 13013,RPG Tsukuru DS,DS,2010,Role-Playing,Enterbrain,0,0,0.05,0,0.05
-13014,WRC 5: FIA World Rally Championship,PS4,2015,Sports,Bigben Interactive,0,0.04,0,0.01,0.05
-13015,Earth Defense Force 4.1: The Shadow of New Despair,PS4,2015,Shooter,Xseed Games,0.02,0.02,0,0.01,0.05
-13016,The BIGS 2,DS,2009,Sports,Take-Two Interactive,0.05,0,0,0,0.05
+13014,WRC 5: FIA World Rally Championship,PS4,2015,Sports,Bigben Interactive,0,0.04,0,,0.05
+13015,Earth Defense Force 4.1: The Shadow of New Despair,PS4,2015,Shooter,Xseed Games,0.02,0.02,0,,0.05
+13016,The BIGS 2,DS,2009,Sports,Take-Two Interactive,0.05,0,0,,0.05
 13017,Dramatic Dungeon: Sakura Wars - Kimi Arugatame,DS,2008,Role-Playing,Sega,0,0,0.05,0,0.05
-13018,TNA iMPACT: Cross the Line,PSP,2010,Fighting,SouthPeak Games,0.05,0,0,0,0.05
-13019,SpongeBob: HeroPants,PSV,2015,Platform,Activision,0.03,0.01,0,0.01,0.05
+13018,TNA iMPACT: Cross the Line,PSP,2010,Fighting,SouthPeak Games,0.05,0,0,,0.05
+13019,SpongeBob: HeroPants,PSV,2015,Platform,Activision,0.03,0.01,0,,0.05
 13020,Lagoon,SNES,1991,Role-Playing,Kemco,0,0,0.05,0,0.05
 13021,Nanostray 2,DS,2008,Shooter,Codemasters,0.03,0.01,0,0,0.05
 13022,Project Setsuna,PSV,2016,Role-Playing,Square Enix,0,0,0.05,0,0.05
@@ -13036,10 +13036,10 @@ Rank,Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,G
 13036,Doraemon: Nobita no Kyouryuu 2006 DS,DS,2006,Role-Playing,Sega,0,0,0.05,0,0.05
 13037,Ontamarama,DS,2007,Action,Atlus,0.05,0,0,0,0.05
 13038,Hakuoki: Stories of the Shinsengumi,PS3,2010,Adventure,Idea Factory,0.02,0,0.03,0,0.05
-13039,DokiDoki Majo Shinpan!,DS,2007,Adventure,SNK Playmore,0,0,0.05,0,0.05
+13039,DokiDoki Majo Shinpan!,DS,2007,Adventure,SNK Playmore,0,0,,0,0.05
 13040,Star Wars: Republic Commando,PC,2005,Shooter,LucasArts,0,0.04,0,0.01,0.05
-13041,Starry ? Sky: In Spring,PSP,2010,Misc,Asgard,0,0,0.05,0,0.05
-13042,FIFA Soccer 2004,GBA,2003,Sports,Electronic Arts,0.04,0.01,0,0,0.05
+13041,Starry ? Sky: In Spring,PSP,2010,Misc,Asgard,0,0,,0,0.05
+13042,FIFA Soccer 2004,GBA,2003,Sports,Electronic Arts,0.04,0.01,,0,0.05
 13043,Armored Core: Formula Front Extreme Battle,PSP,2004,Simulation,505 Games,0.05,0,0,0,0.05
 13044,Downforce,PS2,2002,Racing,Avalon Interactive,0.03,0.02,0,0.01,0.05
 13045,Bejeweled Twist,PC,2008,Puzzle,PopCap Games,0.01,0.04,0,0.01,0.05
@@ -14010,29 +14010,29 @@ Rank,Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,G
 14010,Beatdown: Fists of Vengeance,XB,2005,Action,Capcom,0.03,0.01,0,0,0.04
 14011,Enchanted Arms (JP sales),PS3,2007,Role-Playing,Ubisoft,0,0,0.04,0,0.04
 14012,Monster Force,GBA,2002,Shooter,Universal Interactive,0.03,0.01,0,0,0.04
-14013,World of Goo,PC,2008,Puzzle,2D Boy,0,0.03,0,0.01,0.04
-14014,Onsei Kanjou Sokuteiki: Kokoro Scan,DS,2007,Misc,Sega,0,0,0.04,0,0.04
-14015,Clock Zero: Shuuen no Ichibyou Portable,PSP,2011,Adventure,Idea Factory,0,0,0.04,0,0.04
-14016,San Goku Shi DS 3,DS,2010,Strategy,Tecmo Koei,0,0,0.04,0,0.04
-14017,Trick x Logic: Season 2,PSP,2010,Adventure,Sony Computer Entertainment,0,0,0.04,0,0.04
-14018,Challenge Me: Word Puzzles,DS,2011,Puzzle,O-Games,0.03,0,0,0,0.04
+14013,World of Goo,PC,2008,Puzzle,2D Boy,0,0.03,,0.01,0.04
+14014,Onsei Kanjou Sokuteiki: Kokoro Scan,DS,2007,Misc,Sega,0,0,,0,0.04
+14015,Clock Zero: Shuuen no Ichibyou Portable,PSP,2011,Adventure,Idea Factory,0,0,,0,0.04
+14016,San Goku Shi DS 3,DS,2010,Strategy,Tecmo Koei,0,0,,0,0.04
+14017,Trick x Logic: Season 2,PSP,2010,Adventure,Sony Computer Entertainment,0,,,0,0.04
+14018,Challenge Me: Word Puzzles,DS,2011,Puzzle,O-Games,,0,0,0,0.04
 14019,Hakuouki: Zuisouroku,PS2,2009,Adventure,Idea Factory,0,0,0.04,0,0.04
-14020,World in Conflict,PC,2007,Strategy,Vivendi Games,0,0.03,0,0.01,0.04
-14021,World Championship Pool 2004,XB,2003,Sports,Jaleco,0.03,0.01,0,0,0.04
-14022,Derby Tsuku 5: Derby Uma o Tsukurou!,PS2,2006,Sports,Sega,0,0,0.04,0,0.04
-14023,S.T.A.L.K.E.R.: Clear Sky,PC,2008,Shooter,Deep Silver,0,0.03,0,0.01,0.04
-14024,Jikkyou Powerful Major League 2009,Wii,2009,Sports,Konami Digital Entertainment,0,0,0.04,0,0.04
-14025,SD Gundam Force: Showdown!,PS2,2004,Shooter,Namco Bandai Games,0.02,0.01,0,0,0.04
-14026,Ray Gigant,PSV,2015,Role-Playing,Namco Bandai Games,0,0,0.04,0,0.04
-14027,Negima!? 3-Jikanme ~Koi to Mahou to Sekaiju Densetsu~,PS2,2006,Adventure,Konami Digital Entertainment,0,0,0.04,0,0.04
-14028,Flow: Urban Dance Uprising,PS2,2005,Misc,Ubisoft,0.02,0.01,0,0,0.04
-14029,Ailu de Puzzle,PSP,2012,Action,Capcom,0,0,0.04,0,0.04
-14030,World in Conflict: Complete Edition,PC,2009,Strategy,Ubisoft,0,0.03,0,0.01,0.04
-14031,True Pinball,PS,1996,Misc,Ocean,0.02,0.01,0,0,0.04
-14032,Jane's Hotel,DS,2010,Simulation,Unknown,0.03,0,0,0,0.04
-14033,Stadium Games,GBA,2003,Sports,Ignition Entertainment,0.03,0.01,0,0,0.04
-14034,RLH: Run Like Hell,XB,2003,Shooter,Avalon Interactive,0.03,0.01,0,0,0.04
-14035,Power Play Pool,DS,2006,Sports,System 3 Arcade Software,0.03,0,0,0,0.04
+14020,World in Conflict,PC,2007,Strategy,Vivendi Games,,,0,0.01,0.04
+14021,World Championship Pool 2004,XB,2003,Sports,Jaleco,0.03,,0,0,0.04
+14022,Derby Tsuku 5: Derby Uma o Tsukurou!,PS2,2006,Sports,Sega,0,,0.04,0,0.04
+14023,S.T.A.L.K.E.R.: Clear Sky,PC,2008,,Deep Silver,0,0.03,0,0.01,0.04
+14024,Jikkyou Powerful Major League 2009,Wii,2009,,Konami Digital Entertainment,0,0,0.04,0,0.04
+14025,SD Gundam Force: Showdown!,PS2,2004,,Namco Bandai Games,0.02,0.01,0,0,0.04
+14026,Ray Gigant,PSV,2015,Role-Playing,,0,0,0.04,0,0.04
+14027,Negima!? 3-Jikanme ~Koi to Mahou to Sekaiju Densetsu~,PS2,2006,Adventure,,0,0,0.04,0,0.04
+14028,Flow: Urban Dance Uprising,PS2,2005,Misc,Ubisoft,0.02,,0,0,0.04
+14029,Ailu de Puzzle,PSP,2012,Action,Capcom,0,,0.04,0,0.04
+14030,World in Conflict: Complete Edition,PC,2009,Strategy,Ubisoft,0,0.03,,0.01,0.04
+14031,True Pinball,PS,1996,Misc,Ocean,0.02,0.01,0,,0.04
+14032,Jane's Hotel,DS,2010,Simulation,Unknown,0.03,0,0,,0.04
+14033,Stadium Games,GBA,2003,Sports,Ignition Entertainment,0.03,0.01,0,,
+14034,RLH: Run Like Hell,XB,2003,Shooter,Avalon Interactive,0.03,0.01,0,0,
+14035,Power Play Pool,DS,2006,Sports,System 3 Arcade Software,0.03,0,0,0,
 14036,J-League Pro Striker 2,GEN,1994,Sports,Sega,0,0,0.04,0,0.04
 14037,Obscure,XB,2004,Adventure,MC2 Entertainment,0.03,0.01,0,0,0.04
 14038,Caesar III,PC,1998,Strategy,Vivendi Games,0,0.03,0,0.01,0.04
@@ -14088,20 +14088,20 @@ Rank,Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,G
 14088,Painkiller: Hell Wars,XB,2006,Shooter,DreamCatcher Interactive,0.03,0.01,0,0,0.04
 14089,Housekeeping,DS,N/A,Action,N/A,0,0,0.04,0,0.04
 14090,FunkMaster Flex's Digital Hitz Factory,PS2,2003,Misc,Jester Interactive,0.02,0.01,0,0,0.04
-14091,Star Wars Jedi Knight: Jedi Academy,PC,2003,Shooter,Activision,0,0.03,0,0.01,0.04
+14091,Star Wars Jedi Knight: Jedi Academy,PC,2003,Shooter,Activision,0,,0,0.01,0.04
 14092,Greg Hastings Paintball 2,PS3,2010,Shooter,Majesco Entertainment,0.03,0,0,0,0.04
-14093,Sangoku Koi Senki: Otome no Heihou!,PSP,2012,Adventure,Prototype,0,0,0.04,0,0.04
-14094,Batman: A Telltale Game Series,PS4,2016,Adventure,Telltale Games,0.01,0.02,0,0.01,0.04
+14093,Sangoku Koi Senki: Otome no Heihou!,PSP,2012,Adventure,Prototype,0,,0.04,0,0.04
+14094,Batman: A Telltale Game Series,PS4,2016,Adventure,Telltale Games,0.01,,0,0.01,0.04
 14095,Castlevania Bloodlines,GEN,1994,Platform,Konami Digital Entertainment,0,0,0.04,0,0.04
-14096,Hakuouki: Zuisouroku DS,DS,2011,Adventure,Idea Factory,0,0,0.04,0,0.04
-14097,Might & Magic X: Legacy,PC,2014,Role-Playing,Ubisoft,0,0.03,0,0,0.04
-14098,Detective Conan: Prelude from the Past,PSP,2012,Action,Namco Bandai Games,0,0,0.04,0,0.04
-14099,Luminous Arc 3,DS,2009,Role-Playing,Marvelous Interactive,0,0,0.04,0,0.04
-14100,Major League Baseball 2K8,PSP,N/A,Sports,Unknown,0.03,0,0,0,0.03
+14096,Hakuouki: Zuisouroku DS,DS,2011,Adventure,Idea Factory,0,0,,,0.04
+14097,Might & Magic X: Legacy,PC,2014,Role-Playing,Ubisoft,0,0.03,0,,
+14098,Detective Conan: Prelude from the Past,PSP,2012,Action,Namco Bandai Games,0,,,0,
+14099,Luminous Arc 3,DS,2009,Role-Playing,Marvelous Interactive,0,,0.04,0,0.04
+14100,Major League Baseball 2K8,PSP,N/A,,Unknown,,,0,0,0.03
 14101,FabStyle,3DS,2011,Strategy,Tecmo Koei,0,0,0.03,0,0.03
-14102,Rebel Raiders: Operation Nighthawk,PS2,2006,Simulation,Kando Games,0.02,0.01,0,0,0.03
-14103,Turbo: Super Stunt Squad,DS,2013,Sports,D3Publisher,0,0.03,0,0,0.03
-14104,Zenkoku Dekotora Matsuri,Wii,2008,Racing,Jaleco,0,0,0.03,0,0.03
+14102,Rebel Raiders: Operation Nighthawk,PS2,2006,Simulation,,,0.01,0,0,0.03
+14103,Turbo: Super Stunt Squad,DS,2013,Sports,D3Publisher,0,,0,0,0.03
+14104,Zenkoku Dekotora Matsuri,Wii,2008,Racing,Jaleco,0,0,,0,0.03
 14105,Adventure Time: Explore the Dungeon Because I Don't Know!,WiiU,2013,Action,D3Publisher,0.02,0.01,0,0,0.03
 14106,Fast & Furious: Showdown,PS3,2013,Action,Activision,0,0.03,0,0,0.03
 14107,Alienators: Evolution Continues,GBA,2001,Action,Activision,0.03,0.01,0,0,0.03
